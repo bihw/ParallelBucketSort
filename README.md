@@ -15,4 +15,6 @@ Foi utilizada a função qsort() para ordenação dos valores dentro dos "baldes
 ### ✔️ Saída
 Para vetor de tamanho 5:
 
+
 ![sort - Copia](https://github.com/bihw/ParallelBucketSort/assets/76601652/b303db9e-0947-4ea8-8edd-9f56dd84a83f)
+
