@@ -10,7 +10,7 @@ Implementação do algoritmo de ordenação Bucket Sort com __OpenMP__ para a pr
 gcc parallelBucketSort.c -o pbucket -fopenmp
 .\pbucket 10
 ```
-Onde: 10 é tamanho do vetor a ser ordenado. Os valores nesse vetor são calculados "aleatoriamente". <br>
+Onde: 10 é tamanho do vetor a ser ordenado. Os valores nesse vetor são calculados "aleatoriamente".
 
 ### ✔️ Saída
 Para vetor de tamanho 5:
