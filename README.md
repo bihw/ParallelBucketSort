@@ -4,7 +4,7 @@ Implementação do algoritmo de ordenação Bucket Sort com __OpenMP__ para a pr
 * A quantidade de "baldes" também está ajustada no início do código para 10. <br>
 * O tamanho dos "baldes" é calculado como ```limite_maximo/quantidade_de_baldes```. <br>
 * Foi utilizada a função ```qsort()``` para ordenação dos valores dentro dos "baldes".
-
+ 
 ## 🛠️ Compilando e executando:
 ```
 gcc parallelBucketSort.c -o pbucket -fopenmp
