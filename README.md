@@ -14,7 +14,9 @@ Onde: 10 é tamanho do vetor a ser ordenado. Os valores nesse vetor são calcula
 
 ### ✔️ Saída
 Para vetor de tamanho 5:
-
-
-  ![sort - Copia](https://github.com/bihw/ParallelBucketSort/assets/76601652/b303db9e-0947-4ea8-8edd-9f56dd84a83f)
-
+```
+Vetor nao ordenado:
+767 566 113 521 896
+Vetor ordenado:
+113 521 566 767 896
+```
